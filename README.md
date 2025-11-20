@@ -20,9 +20,32 @@ The Poisson distribution is the discrete probability distribution of the number 
 3. The rate of occurrence is constant.
 4. The probability of an event occurring is proportional to the length of the time period. 
  
-# Procedure :
+# Algorithm :
 
-![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
+1.
+
+<br>
+
+2.
+
+
+<br>
+
+3.
+
+
+<br>
+
+4.
+
+
+<br>
+
+5.
+
+
+<br>
+
 
 # Experiment :
 
@@ -76,10 +99,16 @@ else:
 
 # Output : 
 
-<img width="1017" height="385" alt="image" src="https://github.com/user-attachments/assets/56ba79aa-00d6-4ec9-8200-0e90fd52b0c3" />
 
+
+
+
+
+<br>
+
+<br>
 
 # Results
 
-The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
+<br>
  
